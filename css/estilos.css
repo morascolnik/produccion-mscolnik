@@ -19,7 +19,7 @@ h2{
     height: 100px;
     display: block;
     margin: auto;
-    margin-top: -50px;
+    margin-top: -3.5%;
 }
 h1{
     text-decoration: none;
@@ -87,6 +87,8 @@ button{
     color: rgba(0, 0, 0, 0);
     background-color: rgba(0, 0, 0, 0);
     border-color: rgba(0, 0, 0, 0);
+    height: 80px;
+    width: 220px;
 }
 button:hover{
     background-color:rgba(0, 0, 0, 0.3);
